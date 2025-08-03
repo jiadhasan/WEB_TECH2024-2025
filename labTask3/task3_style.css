@@ -1,0 +1,38 @@
+
+.formbox{
+    margin:  auto;
+    padding: 20px;
+    border: 2px solid black;
+    box-shadow: 10px 10px 20px gray;
+    border-radius: 10px;
+    width: 50%;
+     background-color: rgb(213, 237, 247);
+}
+.fontcolor{
+    color: red;
+    margin-top: 10px;
+}
+  
+input[type="text"],
+input[type="email"],
+input[type="password"],
+input[type="tel"],
+select,
+textarea {
+    width: 100%;         
+    padding: 6px;
+    margin-bottom: 10px;
+}
+button{
+    background-color: lightgreen;
+    font-size: 10px;
+    padding: 6px;
+  
+    font-weight: bold;
+
+}
+label{
+    font-weight: bold;
+    margin-top: 5px;
+}
+
